@@ -3,6 +3,8 @@
     <legend>Personal information:</legend>
     First name:<br>
     <input type="text" name="firstname" value="kamal" size="40"><br>
+    Middle name:<br>
+    <input type="text" name="firstname" value="kamal" size="40"><br>
     Last name:<br>
     <input type="text" name="lastname" value="raj"><br><br>
 
